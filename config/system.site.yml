@@ -1,0 +1,14 @@
+uuid: ab974a56-caf1-45c1-a055-65e1764d05d7
+name: slotelaw-d8
+mail: elly@jonez.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
